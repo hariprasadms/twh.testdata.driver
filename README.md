@@ -9,13 +9,13 @@ https://github.com/hariprasadms/twh.testdata.driver/tree/master/twh.testdata.dri
 
 Usage -
 
-Below are the prerequisites - 
+Below are the steps -
 
-1. Create a excel file.
+1. Create an excel file.
 
-2. In excel sheets, add two colums with the names as 'Name' and 'Value' ( These are case sensitive ). Name is the column holds the 'Key' and Value is the column holds the 'value' associated with the key.
+2. In excel sheets, add two columns with the names as 'Name' and 'Value' ( These are case sensitive ). Name is the column holds the 'Key' and Value is the column holds the 'value' associated with the key.
 
-Note - In the verion 1.0, its been supported to have only two columns in a sheet.
+Note - In version 1.0, it supported to have only two columns in a sheet.
 
 3. Import below class
 
